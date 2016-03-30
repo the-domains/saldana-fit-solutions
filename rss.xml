@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Foundation. Integration. Transformation]]></title>
         <description><![CDATA[Foundation. Integration. Transformation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/saldana-fit-solutions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 17:05:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 17:06:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/saldana-fit-solutions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>&amp;lt;style&amp;gt; .wpb_animate_when_almost_visible { opacity: 1; }&amp;lt;/style&amp;gt;</p>]]></description>
-            <link>undefinedandampltstyleandampgt-wpb_animate_when_almost_visible-opa/index.html</link>
+            <link>https://thegrid.ai/saldana-fit-solutions/andampltstyleandampgt-wpb_animate_when_almost_visible-opa/index.html</link>
+            <guid isPermaLink="false">c73a975e-cae0-4bc6-8c64-f45ec352031e</guid>
+            <pubDate>Wed, 30 Mar 2016 17:05:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>&amp;lt;style&amp;gt; .wpb_animate_when_almost_visible { opacity: 1; }&amp;lt;/style&amp;gt;</p>]]></description>
+            <link>https://thegrid.ai/saldana-fit-solutions/andampltstyleandampgt-wpb_animate_when_almost_visible-opa/index.html</link>
             <guid isPermaLink="false">fbc8aedd-4132-4f39-82a1-cbdd526407f0</guid>
             <pubDate>Wed, 30 Mar 2016 17:05:50 GMT</pubDate>
         </item>
