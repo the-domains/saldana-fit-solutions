@@ -1,0 +1,28 @@
+name: Saldana FIT Solutions
+favicon: null
+layout_spectrum: 0.3232647515833378
+typography_spectrum: 0.38835807354189456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.06541407573968172
+  lightness: 0.2538767443038523
+  saturation: 0.39744780119508505
+  rhythmicContrast: 0.015432629734277725
+purpose: []
