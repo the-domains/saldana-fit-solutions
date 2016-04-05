@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: '&amp;lt;style&amp;gt; .wpb_animate_when_almost_visible { opacity: 1; }&amp;lt;/style&amp;gt;'
-datePublished: '2016-03-30T17:05:50.352Z'
-dateModified: '2016-03-30T16:30:40.059Z'
+datePublished: '2016-04-05T18:00:06.535Z'
+dateModified: '2016-04-05T17:59:52.033Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-30-andampltstyleandampgt-wpb_animate_when_almost_visible-opa.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-andampltstyleandampgt-wpb_animate_when_almost_visible-opa.md
-published: true
 url: andampltstyleandampgt-wpb_animate_when_almost_visible-opa/index.html
 _type: Article
 
